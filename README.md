@@ -9,27 +9,36 @@ Anaconda - Python 3.7
 Step1:
 
 Import the necessary modules.
+
 Step2:
 
 Load the image to operate on.
+
 Step3:
 
 Convert the image to grayscale image.
+
 Step4:
 
 Use Sobel operator along x,y and xy directions.
+
 Step5:
 
 Operate the image using Laplacian operator.
+
 Step6:
 
 Operate the image using Canny Edge operator.
+
 Step7:
 
 Show all the operated images output.
  
 ## Program:
-
+```
+Name: Lathika Sunder
+Reg No: 212221230054
+```
 ``` Python
 # Import the packages
 import cv2
